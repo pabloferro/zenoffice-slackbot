@@ -1,0 +1,22 @@
+{
+  "name": "zenoffice-slackbot",
+  "version": "1.0.0",
+  "description": "ZenOffice Slack Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloferro/zenoffice-slackbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloferro/zenoffice-slackbot/issues"
+  },
+  "homepage": "https://github.com/pabloferro/zenoffice-slackbot#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
